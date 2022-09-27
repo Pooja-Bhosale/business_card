@@ -1,0 +1,25 @@
+body {
+	margin-top: 20px;
+}
+.imgContainer {
+	background-color: rgb(127, 255, 229);
+	border: 2px solid palevioletred;
+	border-bottom: 6px solid rgb(224, 141, 169);
+	width: 400px;
+	border-radius: 20px;
+	margin: 0 auto;
+
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.text {
+	font-style: italic;
+	text-align: center;
+}
+
+img {
+	width: 150px;
+	border-radius: 10px;
+}
